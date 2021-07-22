@@ -9,6 +9,9 @@ In this analysis, I created two .csv files:
 The [retiring_titles.csv](Analysis_Projects/Pewlett-Hackard-Analysis/Data/retiring_titles.csv) table holds the count of retiring employees by current job title.  
 - Based on the image below, we can see that the vast majority of retiring staff menbers hold Senior-level job titles.
 
+
+![image](Analysis_Projects/Pewlett-Hackard-Analysis/Data/Count_by_title.PNG)
+
 ### Mentorship Eligibility
 The [mentorship_eligibility.csv](Analysis_Projects/Pewlett-Hackard-Analysis/Data/mentorship_eligibility.csv) table holds the names and information of current employees that are eligible for the company's mentorship program.  
 
