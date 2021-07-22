@@ -10,7 +10,7 @@ The retiring_titles.csv table holds retiring employees (based on age) and their 
 - Based on the image below, we can see that the vast majority of retiring staff menbers hold Senior-level job titles.
 
 ### Mentorship Eligibility
-The mentorship_eligibility.csv table holds the names and information of current employees that are eligible for the company's mentorship program.  
+The [mentorship_eligibility.csv](Analysis_Projects/Pewlett-Hackard-Analysis/Data/mentorship_eligibility.csv) table holds the names and information of current employees that are eligible for the company's mentorship program.  
 
 Bulleted list with four major points from the two deliverables.  Use images and support where needed.
 
